@@ -25,6 +25,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CongWeiDaoTouDaYinLianBiaoLcof.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/CongWeiDaoTouDaYinLianBiaoLcof.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com剑指 Offer 06" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CongWeiDaoTouDaYinLianBiaoLcof.java" />
+              <option name="titleSlug" value="cong-wei-dao-tou-da-yin-lian-biao-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ErWeiShuZuZhongDeChaZhaoLcof.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ErWeiShuZuZhongDeChaZhaoLcof.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com剑指 Offer 04" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ErWeiShuZuZhongDeChaZhaoLcof.java" />
+              <option name="titleSlug" value="er-wei-shu-zu-zhong-de-cha-zhao-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/LongestPalindromicSubstring.java">
           <value>
             <LeetcodeEditor>
@@ -44,6 +66,28 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ReverseInteger.java" />
               <option name="titleSlug" value="reverse-integer" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/TiHuanKongGeLcof.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/TiHuanKongGeLcof.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com剑指 Offer 05" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/TiHuanKongGeLcof.java" />
+              <option name="titleSlug" value="ti-huan-kong-ge-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ZhongJianErChaShuLcof.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ZhongJianErChaShuLcof.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com剑指 Offer 07" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ZhongJianErChaShuLcof.java" />
+              <option name="titleSlug" value="zhong-jian-er-cha-shu-lcof" />
             </LeetcodeEditor>
           </value>
         </entry>
