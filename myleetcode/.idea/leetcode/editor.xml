@@ -25,6 +25,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/BaoHanMinhanShuDeZhanLcof.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/BaoHanMinhanShuDeZhanLcof.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com剑指 Offer 30" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/BaoHanMinhanShuDeZhanLcof.java" />
+              <option name="titleSlug" value="bao-han-minhan-shu-de-zhan-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/BiaoShiShuZhiDeZiFuChuanLcof.java">
           <value>
             <LeetcodeEditor>
@@ -33,6 +44,28 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/BiaoShiShuZhiDeZiFuChuanLcof.java" />
               <option name="titleSlug" value="biao-shi-shu-zhi-de-zi-fu-chuan-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CongShangDaoXiaDaYinErChaShuIiLcof.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/CongShangDaoXiaDaYinErChaShuIiLcof.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com剑指 Offer 32 - II" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CongShangDaoXiaDaYinErChaShuIiLcof.java" />
+              <option name="titleSlug" value="cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CongShangDaoXiaDaYinErChaShuIiiLcof.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/CongShangDaoXiaDaYinErChaShuIiiLcof.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com剑指 Offer 32 - III" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CongShangDaoXiaDaYinErChaShuIiiLcof.java" />
+              <option name="titleSlug" value="cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -286,6 +319,17 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/YongLiangGeZhanShiXianDuiLieLcof.java" />
               <option name="titleSlug" value="yong-liang-ge-zhan-shi-xian-dui-lie-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ZhanDeYaRuDanChuXuLieLcof.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ZhanDeYaRuDanChuXuLieLcof.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com剑指 Offer 31" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ZhanDeYaRuDanChuXuLieLcof.java" />
+              <option name="titleSlug" value="zhan-de-ya-ru-dan-chu-xu-lie-lcof" />
             </LeetcodeEditor>
           </value>
         </entry>
